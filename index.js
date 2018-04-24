@@ -1,3 +1,5 @@
 // write your code below!
 
-function happHolidaysTo
+function happHolidays(){
+  returns "Happy Holidays!"
+}
